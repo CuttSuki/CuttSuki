@@ -8,7 +8,7 @@ I'm **CuttSuki** — a developer passionate about building cool things and learn
 
 ### 📊 My most used languages
 
-[![Top Langs](https://gh-stats.com/api/top-langs/?username=CuttSuki&layout=compact&theme=dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CuttSuki&theme=dark)
 
 ---
 
